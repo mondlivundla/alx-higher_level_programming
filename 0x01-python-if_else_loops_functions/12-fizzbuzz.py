@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author - Mondliwethu Vundla
+
 
 def fizzbuzz():
     for number in range(1, 101):
