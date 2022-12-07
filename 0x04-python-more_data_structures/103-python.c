@@ -40,7 +40,6 @@ void print_python_bytes(PyObject *p)
 
 	printf("\n");
 }
-
 /**
  * print_python_list - Prints list information
  *
