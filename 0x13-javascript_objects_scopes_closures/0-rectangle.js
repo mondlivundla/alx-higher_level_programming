@@ -2,5 +2,4 @@
 class Rectangle {
   // Empty class definition
 }
-const myRectangle = new Rectangle();
-console.log(myRectangle.constructor);
+module.exports = class Rectangle {};
